@@ -1,25 +1,24 @@
 # Video Game Sales Analysis Project
 
 ## Introduction
-In this project, I analyzed video game sales data to identify trends and patterns in the industry. I used a dataset of video game sales from various regions, platforms, and genres to analyze the factors that contribute to a game's success or failure.
+The video game industry has grown rapidly over the years, and understanding the trends and patterns within it is crucial for game developers and investors. In this project, I analyzed video game sales data to identify the factors that contribute to a game's success or failure.
 
 ## Data Description
-The dataset I used for this analysis contained information on video game sales from 1980 to 2020. It included details such as the name of the game, the platform it was released on, the year of release, the genre, and the sales figures in various regions. The dataset was obtained from Kaggle.
+The dataset used for this analysis contains information on video game sales from 1980 to 2020. It includes details such as the name of the game, the platform it was released on, the year of release, the genre, and the sales figures in various regions. The dataset was obtained from Kaggle and provides a comprehensive view of the video game industry over the past four decades.
 
-## Steps Taken
-### 1. Ask
-I started by defining the problem I wanted to solve and the goals of my analysis. I asked questions such as:
+## Methodology
+### 1. Define the Problem and Goals
+The first step in this project was to define the problem I wanted to solve and the goals of my analysis. I asked questions such as:
 * What are the current sales trends in the video game industry?
-* What are the most popular platforms?
-* What are the most popular genres?
+* What are the most popular platforms and genres?
 * What are the top selling games?
+* Which factors contribute to a game's success or failure?
 
-Then, I determined the scope of my analysis, including the time period, regions, and data sources I wanted to use.
+By answering these questions, I aimed to gain insights into the video game industry and provide valuable information for game developers and investors.
 
 ### 2. Prepare and Process
 
 To prepare the dataset for analysis, I first needed to understand it better and identify any cleaning duties that were necessary. Here are the steps I took:
-
 1. Opened the dataset in Excel.
 2. Analyzed the raw data to gain insights and identify potential issues.
 3. Created pivot tables to identify any anomalies and inconsistencies in the data.
