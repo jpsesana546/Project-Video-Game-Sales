@@ -94,7 +94,7 @@ While this project provided valuable insights into video game sales data, there 
 * The video game sales dataset used in this project was obtained from Kaggle, and it was likely webscraped from various sources. As such, there may be some data quality issues that were not addressed in this project. Further analysis should be done to ensure the reliability and accuracy of the data.
 * The sales data used in this project is not current and only goes up until 2016, meaning it does not account for the newest generation of consoles. Therefore, the insights gained from this analysis may not be entirely representative of the current state of the video game industry.
 * Some year values in the dataset were missing, which could affect the accuracy of the insights gained from this project.
-* The data used in this project only includes sales data from North America, Japan, and Europe, and may not be representative of video game sales trends in other regions of the world.
+* The data used in this project only specifies sales data from North America, Japan, and Europe, and may not be representative of video game sales trends in other regions of the world.
 
 These limitations should be taken into consideration when interpreting the insights gained from this analysis. Future studies using more current and comprehensive datasets may be necessary to gain a more accurate understanding of the video game industry.
 
