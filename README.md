@@ -1,12 +1,15 @@
 # Video Game Sales Analysis Project
 
 ## Introduction
+
 The video game industry has grown rapidly over the years, and understanding the trends and patterns within it is crucial for game developers and investors. In this project, I analyzed video game sales data to identify the factors that contribute to a game's success or failure.
 
 ## Data Description
+
 The dataset used for this analysis contains information on video game sales from 1980 to 2020. It includes details such as the name of the game, the platform it was released on, the year of release, the genre, and the sales figures in various regions. The dataset was obtained from Kaggle and provides a comprehensive view of the video game industry over the past four decades.
 
 ## Methodology
+
 ### 1. Define the Problem and Goals
 The first step in this project was to define the problem I wanted to solve and the goals of my analysis. I asked questions such as:
 * What are the current sales trends in the video game industry?
@@ -46,8 +49,9 @@ In this phase, I analyzed the video game sales data to uncover insights and tren
 I also created several visualizations to help illustrate my findings, including bar charts, line charts, and pie charts. These visualizations allow us to easily compare different genres, platforms, and games.
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/117879912/229412869-bb3d844f-4a1a-4f03-b1f2-a02f631e1527.png" alt="Excel Dashboard" width="900" height="900">
+<img src="https://user-images.githubusercontent.com/117879912/229416085-fd8f93d7-c382-48d3-a9dc-17d0072abdd4.png" alt="Excel Dashboard" width="900" height="900">
 </div>
+
 
 Overall, the analysis phase helped us gain a better understanding of the video game sales data and identify key trends and insights.
 
@@ -62,6 +66,26 @@ Once any new issues have been addressed and I am satisfied with the quality of m
 
 ## Conclusion
 
+Through this project, I was able to analyze and visualize video game sales data using Excel to uncover key insights and trends. By cleaning and preparing the data and using Excel's built-in features such as pivot tables and charts, I was able to analyze the data for patterns and trends and create compelling visualizations that helped to showcase my findings.
+
+Some of the key insights I uncovered include the fact that Action is the top-selling genre worldwide, North America is the region with the highest total sales, and the Playstation 2 is the top-selling platform.
+
+Overall, this project was a great opportunity to work with real-world data and apply a range of analytical and visualization skills using Excel. I look forward to continuing to develop these skills and using them to uncover insights and drive business success in the future.
+
+## Limitations
+
+While this project provided valuable insights into video game sales data, there are some limitations that must be acknowledged:
+
+* The video game sales dataset used in this project was obtained from Kaggle, and it was likely webscraped from various sources. As such, there may be some data quality issues that were not addressed in this project. Further analysis should be done to ensure the reliability and accuracy of the data.
+* The sales data used in this project is not current and only goes up until 2016, meaning it does not account for the newest generation of consoles (Playstation 4, Xbox One, Nintendo Switch). Therefore, the insights gained from this analysis may not be entirely representative of the current state of the video game industry.
+* Some year values in the dataset were missing, which could affect the accuracy of the insights gained from this project.
+* The data used in this project only includes sales data from North America, Japan, and Europe, and may not be representative of video game sales trends in other regions of the world.
+
+These limitations should be taken into consideration when interpreting the insights gained from this analysis. Future studies using more current and comprehensive datasets may be necessary to gain a more accurate understanding of the video game industry.
+
+## Disclaimer
+
+This project was done solely for the purpose of practicing and showcasing my skills in data analytics using Excel. I do not own any of the data used in this project. The video game sales dataset was obtained from Kaggle and belongs to its respective owners. This project does not represent any official views or opinions of the dataset owners.
 
 ## References
 Kaggle dataset: [Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogamesales)
