@@ -43,8 +43,8 @@ To prepare the dataset for analysis, I first needed to understand it better and 
 
 Next, I began the data cleaning process by performing the following tasks:
 
-1. Corrected any typos in game names using the find and replace function (e.g., "PokÃ©mon" -> "Pokemon").
-2. Standardized platform names to make them more easily understandable (e.g., "2600" -> "Atari 2600", "x360" -> "Xbox 360", "ws" -> "Wonderswan").
+1. Corrected any typos in game names using the find and replace function ("PokÃ©mon" -> "Pokemon").
+2. Standardized platform names to make them more easily understandable ("2600" -> "Atari 2600", "x360" -> "Xbox 360", "ws" -> "Wonderswan").
 3. Used text splitting to isolate the platform developer company from the platform column, making it easier to perform platform-based analysis.
 
 <div align="center">
