@@ -1,19 +1,17 @@
 # Video Game Sales Analysis Project
 
 ## Table of Contents
-
-- [Video Game Sales Analysis Project](#video-game-sales-analysis-project)
-  - [Introduction](#introduction)
-  - [Data Description](#data-description)
-  - [Methodology](#methodology)
-    - [1. Define the Problem and Goals](#1-define-the-problem-and-goals)
-    - [2. Prepare and Process](#2-prepare-and-process)
-    - [3. Analyze](#3-analyze)
-    - [4. Share and Act](#4-share-and-act)
-  - [Conclusion](#conclusion)
-  - [Limitations](#limitations)
-  - [Disclaimer](#disclaimer)
-  - [References](#references)
+- [Introduction](#introduction)
+- [Data Description](#data-description)
+- [Methodology](#methodology)
+  - [1. Define the Problem and Goals](#1-define-the-problem-and-goals)
+  - [2. Prepare and Process](#2-prepare-and-process)
+  - [3. Analyze](#3-analyze)
+  - [4. Share and Act](#4-share-and-act)
+- [Conclusion](#conclusion)
+- [Limitations](#limitations)
+- [Disclaimer](#disclaimer)
+- [References](#references)
 
 ## Introduction
 
