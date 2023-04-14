@@ -64,9 +64,9 @@ In this phase, I analyzed the video game sales data to uncover insights and tren
 I also created several visualizations to help illustrate my findings, including bar charts, line charts, and pie charts. These visualizations allow us to easily compare different genres, platforms, and games.
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/117879912/231605897-be150adf-45b4-42fe-aa34-fc6203c25b70.png" alt="Excel Dashboard" width="900" height="900">
-</div>
 
+<img src="https://user-images.githubusercontent.com/117879912/231908243-137e0826-811b-4e41-93a4-777e27385040.png" alt="Excel Dashboard" width="900" height="900">
+</div>
 
 Overall, the analysis phase helped us gain a better understanding of the video game sales data and identify key trends and insights.
 
